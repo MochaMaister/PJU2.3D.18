@@ -21,7 +21,7 @@
 
 ---
 
-Propuestas:
+## Alt Propuestas:
 
 1.1 - <Nombre>
 1.2 - <Descripción>
