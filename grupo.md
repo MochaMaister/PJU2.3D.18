@@ -21,14 +21,14 @@
 ---
 
 ## Propuestas:
-1. Op1
-  1.1. Nombre
-  1.2. Descripción
-  1.3. Objetivos
-  1.4. Público Objetivo
-  1.5. Competencia
-  1.6. Recursos
-  1.7. Tiempos
+1. Op1\
+  1.1. Nombre\
+  1.2. Descripción\
+  1.3. Objetivos\
+  1.4. Público Objetivo\
+  1.5. Competencia\
+  1.6. Recursos\
+  1.7. Tiempos\
 
 2.1. Nombre
 2.2. Descripción
