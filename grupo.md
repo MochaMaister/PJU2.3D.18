@@ -53,5 +53,5 @@ Opción elegida:
 - [ ] Op2
 - [ ] Op3
 
-:postal_horn: 
+:postal_horn:\
 / play horn
