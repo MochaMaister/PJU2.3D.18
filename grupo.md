@@ -21,7 +21,8 @@
 
 ---
 
-Alt-H2 Propuestas:
+## Propuestas:
+Alt-H1
 
 1.1 - <Nombre>
 1.2 - <Descripción>
