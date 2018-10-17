@@ -30,21 +30,21 @@
 1.6. Recursos
 1.7. Tiempos
 
-2.1. - <Nombre>
-2.2. - <Descripción>
-2.3. - <Objetivos>
-2.4. - <Público Objetivo>
-2.5. - <Competencia>
-2.6. - <Recursos>
-2.7. - <Tiempos>
+2.1. Nombre
+2.2. Descripción
+2.3. Objetivos
+2.4. Público Objetivo
+2.5. Competencia
+2.6. Recursos
+2.7. Tiempos
 
-3.1. - <Nombre>
-3.2. - <Descripción>
-3.3. - <Objetivos>
-3.4. - <Público Objetivo>
-3.5. - <Competencia>
-3.6. - <Recursos>
-3.7. - <Tiempos>
+3.1. Nombre
+3.2. Descripción
+3.3. Objetivos
+3.4. Público Objetivo
+3.5. Competencia
+3.6. Recursos
+3.7. Tiempos
   
 Elija opción:
 - [ ] Op1
