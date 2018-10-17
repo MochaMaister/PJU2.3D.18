@@ -47,7 +47,7 @@
   3.5. Competencia\
   3.6. Recursos\
   3.7. Tiempos
-\
+
 Elija opción:
 - [ ] Op1
 - [ ] Op2
