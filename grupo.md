@@ -22,13 +22,13 @@
 
 ## Propuestas:
 1. 
- 1. Nombre
- 2. Descripción
- 3. Objetivos
- 4. Público Objetivo
- 5. Competencia
- 6. Recursos
- 7. Tiempos
+  1. Nombre
+  2. Descripción
+  3. Objetivos
+  4. Público Objetivo
+  5. Competencia
+  6. Recursos
+  7. Tiempos
 
 2.1. Nombre
 2.2. Descripción
