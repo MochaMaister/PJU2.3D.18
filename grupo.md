@@ -48,7 +48,7 @@
   3.6. Recursos\
   3.7. Tiempos
 
-Elija opción:
+Opción elegida:
 - [ ] Op1
 - [ ] Op2
 - [ ] Op3
