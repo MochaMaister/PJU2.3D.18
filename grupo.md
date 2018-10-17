@@ -4,17 +4,17 @@
 >* Unity: 6 (en proceso)
 >* Programación C#: 8 (nociones C, C++ y otros en desuso)
 
-**Yeray Bonilla Jorge**:
-	Modelado: 6
-	Animación: 4
-	Unity: 3
-	Programación: 3
+## **Yeray Bonilla Jorge**:
+>* Modelado: 6
+>* Animación: 4
+>* Unity: 3
+>* Programación: 3
 
-**Eduardo Delgado Soler**:
-	Modelado: 6
-	Animación: 8
-	Unity: 7
-	Programación: 8 (Java, C#, python)
+## **Eduardo Delgado Soler**:
+>* Modelado: 6
+>* Animación: 8
+>* Unity: 7
+>* Programación: 8 (Java, C#, python)
 
 
 
