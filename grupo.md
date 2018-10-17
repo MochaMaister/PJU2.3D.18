@@ -21,7 +21,7 @@
 ---
 
 ## Propuestas:
-1.
+1. Primera Opción
   1. Nombre
   2. Descripción
   3. Objetivos
