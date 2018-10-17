@@ -1,4 +1,7 @@
-## **Yishar Jesús Zamora Henríquez**:  (Sobre 10)
+# Info del Grupo (sobre 10)
+
+---
+## **Yishar Jesús Zamora Henríquez**:
 >* Modelado: Organico 4, Inorganico 8
 >* Animación: 8
 >* Unity: 6 (en proceso)
