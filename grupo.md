@@ -1,8 +1,8 @@
 **Yishar Jesús Zamora Henríquez**:  (Sobre 10)
-	Modelado: Organico 4, Inorganico 8
-	Animación: 8
-	Unity: 6 (en proceso)
-	Programación C#: 8 (nociones C, C++ y otros en desuso)
+	*Modelado: Organico 4, Inorganico 8
+	*Animación: 8
+	*Unity: 6 (en proceso)
+	*Programación C#: 8 (nociones C, C++ y otros en desuso)
 
 **Yeray Bonilla Jorge**:
 	Modelado: 6
